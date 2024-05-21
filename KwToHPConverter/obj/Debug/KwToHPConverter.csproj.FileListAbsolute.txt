@@ -1,0 +1,11 @@
+C:\Users\prog26\Desktop\KwToHP\KwToHPConverter\obj\Debug\KwToHPConverter.csproj.AssemblyReference.cache
+C:\Users\prog26\Desktop\KwToHP\KwToHPConverter\obj\Debug\KwToHPConverter.Properties.Resources.resources
+C:\Users\prog26\Desktop\KwToHP\KwToHPConverter\obj\Debug\KwToHPConverter.csproj.GenerateResource.cache
+C:\Users\prog26\Desktop\KwToHP\KwToHPConverter\obj\Debug\KwToHPConverter.csproj.CoreCompileInputs.cache
+C:\Users\prog26\Desktop\KwToHP\KwToHPConverter\obj\Debug\KwToHPCo.FBA67348.Up2Date
+C:\Users\prog26\Desktop\KwToHP\KwToHPConverter\obj\Debug\KwToHPConverter.exe
+C:\Users\prog26\Desktop\KwToHP\KwToHPConverter\obj\Debug\KwToHPConverter.pdb
+C:\Users\prog26\Desktop\KwToHP\KwToHPConverter\obj\Debug\KwToHPConverter.frConverter.resources
+C:\Users\prog26\Desktop\KwToHPConverter.exe.config
+C:\Users\prog26\Desktop\KwToHPConverter.exe
+C:\Users\prog26\Desktop\KwToHPConverter.pdb
